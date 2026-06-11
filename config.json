@@ -1,4 +1,4 @@
 {
   "serverURL": "http://localhost:3000",
-  "timeInterval": 1800000
+  "timeInterval": 60000
 }
